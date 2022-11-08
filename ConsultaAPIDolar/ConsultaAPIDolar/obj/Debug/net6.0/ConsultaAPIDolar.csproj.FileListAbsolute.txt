@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\bin\Debug\net6.0\ConsultaAPIDolar.exe
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\bin\Debug\net6.0\ConsultaAPIDolar.deps.json
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\bin\Debug\net6.0\ConsultaAPIDolar.runtimeconfig.json
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\bin\Debug\net6.0\ConsultaAPIDolar.dll
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\bin\Debug\net6.0\ConsultaAPIDolar.pdb
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.AssemblyInfo.cs
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.dll
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\refint\ConsultaAPIDolar.dll
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.pdb
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ConsultaAPIDolar.genruntimeconfig.cache
+C:\Users\felip\source\repos\ConsultaAPIDolar\ConsultaAPIDolar\obj\Debug\net6.0\ref\ConsultaAPIDolar.dll

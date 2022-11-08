@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.AssemblyInfo.cs
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\bin\Debug\net6.0\ConsultaAPIDolarTESTE.exe
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\bin\Debug\net6.0\ConsultaAPIDolarTESTE.deps.json
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\bin\Debug\net6.0\ConsultaAPIDolarTESTE.runtimeconfig.json
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\bin\Debug\net6.0\ConsultaAPIDolarTESTE.dll
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\bin\Debug\net6.0\ConsultaAPIDolarTESTE.pdb
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.dll
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\refint\ConsultaAPIDolarTESTE.dll
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.pdb
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ConsultaAPIDolarTESTE.genruntimeconfig.cache
+C:\Users\felip\source\repos\ConsultaAPIDolarTESTE\ConsultaAPIDolarTESTE\obj\Debug\net6.0\ref\ConsultaAPIDolarTESTE.dll
